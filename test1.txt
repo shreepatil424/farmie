@@ -1,0 +1,2 @@
+Testing file with vi mode edit
+im in farmie project with new test2 file update
