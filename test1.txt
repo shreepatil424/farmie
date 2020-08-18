@@ -1,4 +1,4 @@
 
 Testing file with vi mode edit
 im in clone/farmie project
-now 16.20 changes
+now 16.20 changes new test1.txt changes
